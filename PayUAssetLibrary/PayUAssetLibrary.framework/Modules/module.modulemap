@@ -1,0 +1,11 @@
+framework module PayUAssetLibrary {
+  umbrella header "PayUAssetLibrary.h"
+
+  export *
+  module * { export * }
+}
+
+module PayUAssetLibrary.Swift {
+    header "PayUAssetLibrary-Swift.h"
+    requires objc
+}
