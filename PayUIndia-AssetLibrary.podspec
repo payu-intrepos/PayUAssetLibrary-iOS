@@ -13,6 +13,6 @@ Pod::Spec.new do |s|
                           }
   
   s.ios.deployment_target = "10.0"
-  s.vendored_frameworks = 'PayUAssetLibrary/PayUAssetLibrary.framework'
+  s.vendored_frameworks = 'PayUAssetLibrary/PayUAssetLibraryKit.framework'
 
 end
