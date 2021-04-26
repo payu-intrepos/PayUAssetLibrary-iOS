@@ -207,9 +207,11 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 # pragma pop_macro("any")
 #endif
 
+@class UIImage;
 
 SWIFT_CLASS("_TtC19PayUAssetLibraryKit16PayUAssetLibrary")
 @interface PayUAssetLibrary : NSObject
++ (void)imageOf:(NSString * _Nonnull)imageID onCompletion:(void (^ _Nonnull)(UIImage * _Nullable))onCompletion;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
@@ -425,9 +427,11 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 # pragma pop_macro("any")
 #endif
 
+@class UIImage;
 
 SWIFT_CLASS("_TtC19PayUAssetLibraryKit16PayUAssetLibrary")
 @interface PayUAssetLibrary : NSObject
++ (void)imageOf:(NSString * _Nonnull)imageID onCompletion:(void (^ _Nonnull)(UIImage * _Nullable))onCompletion;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
@@ -646,9 +650,11 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 # pragma pop_macro("any")
 #endif
 
+@class UIImage;
 
 SWIFT_CLASS("_TtC19PayUAssetLibraryKit16PayUAssetLibrary")
 @interface PayUAssetLibrary : NSObject
++ (void)imageOf:(NSString * _Nonnull)imageID onCompletion:(void (^ _Nonnull)(UIImage * _Nullable))onCompletion;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
@@ -864,9 +870,11 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 # pragma pop_macro("any")
 #endif
 
+@class UIImage;
 
 SWIFT_CLASS("_TtC19PayUAssetLibraryKit16PayUAssetLibrary")
 @interface PayUAssetLibrary : NSObject
++ (void)imageOf:(NSString * _Nonnull)imageID onCompletion:(void (^ _Nonnull)(UIImage * _Nullable))onCompletion;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 

@@ -6,7 +6,7 @@ import Swift
 import UIKit
 public typealias ImageOfImageID = (UIKit.UIImage?) -> ()
 @objc @_inheritsConvenienceInitializers public class PayUAssetLibrary : ObjectiveC.NSObject {
-  public class func image(of imageID: Swift.String, onCompletion: @escaping PayUAssetLibraryKit.ImageOfImageID)
+  @objc public class func image(of imageID: Swift.String, onCompletion: @escaping PayUAssetLibraryKit.ImageOfImageID)
   @objc deinit
   @objc override dynamic public init()
 }
