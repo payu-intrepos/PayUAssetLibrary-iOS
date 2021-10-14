@@ -50,7 +50,7 @@ podTrunkPush() {
 }
 
 podName="PayUIndia-AssetLibrary"
-podVersion="2.3.0"
+podVersion="2.4.0"
 
 podSpec="${podName}.podspec"
 tag="${podName}_${podVersion}"
