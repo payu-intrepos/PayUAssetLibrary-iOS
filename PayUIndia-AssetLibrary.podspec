@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.description         = "The CheckoutProBase SDK provides basic classes and method used across other framewroks."
 
   s.source              = { :git => "https://github.com/payu-intrepos/PayUAssetLibrary-iOS.git",
-                            :tag => "#{s.name}_#{s.version}"
+                            :tag => "#{s.version}"
                           }
   
   s.ios.deployment_target = "11.0"
