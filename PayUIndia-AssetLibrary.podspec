@@ -1,6 +1,16 @@
+# Supress warning messages.
+original_verbose, $VERBOSE = $VERBOSE, nil
+
+# Read file
+vars_from_file = File.read("../../PayUParamsKit/GitHub/Version.txt")
+eval(vars_from_file)
+
+# Activate warning messages again.
+$VERBOSE = original_verbose
+
 Pod::Spec.new do |s|
   s.name                = "PayUIndia-AssetLibrary"
-  s.version             = "3.3.0"
+  s.version             = ASSET_LIBRARY_POD_VERSION
   s.license             = "MIT"
   s.homepage            = "https://github.com/payu-intrepos/PayUAssetLibrary-iOS"
   s.author              = { "PayUbiz" => "contact@payu.in"  }
