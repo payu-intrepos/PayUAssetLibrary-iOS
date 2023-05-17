@@ -30,12 +30,12 @@ Pod::Spec.new do |s|
   s.homepage            = "https://github.com/payu-intrepos/PayUAssetLibrary-iOS"
   s.author              = { "PayUbiz" => "contact@payu.in"  }
 
-  s.summary             = "The CheckoutProBase SDK provides basic classes and method used across other framewroks"
-  s.description         = "The CheckoutProBase SDK provides basic classes and method used across other framewroks."
+  s.summary             = "Asset library"
+  s.description         = "The Asset library SDK is a comprehensive image downloading and caching library for iOS."
 
   s.source              = { :git => "https://github.com/payu-intrepos/PayUAssetLibrary-iOS.git",
-                            :tag => "#{s.version}"
-                          }
+      :tag => "#{s.version}"
+  }
   
   s.ios.deployment_target = "11.0"
   s.vendored_frameworks = 'PayUAssetLibraryKit/PayUAssetLibraryKit.xcframework'
