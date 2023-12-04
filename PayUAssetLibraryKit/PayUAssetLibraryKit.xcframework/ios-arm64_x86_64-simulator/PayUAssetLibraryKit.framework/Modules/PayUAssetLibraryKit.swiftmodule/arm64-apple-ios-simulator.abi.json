@@ -1162,35 +1162,14 @@
     {
       "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/AssetLibrary\/PayUAssetLibrary\/PayUAssetLibrary\/Constants\/PayUAssetConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2865,
-      "length": 23,
-      "value": "\"payu_dictionary_queue\""
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/AssetLibrary\/PayUAssetLibrary\/PayUAssetLibrary\/Constants\/PayUAssetConstants.swift",
-      "kind": "StringLiteral",
-      "offset": 2928,
+      "offset": 2867,
       "length": 26,
       "value": "\"payu_image_fetcher_queue\""
     },
     {
       "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/AssetLibrary\/PayUAssetLibrary\/PayUAssetLibrary\/Constants\/PayUAssetConstants.swift",
-      "kind": "StringLiteral",
-      "offset": 2994,
-      "length": 26,
-      "value": "\"payu_cache_manager_queue\""
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/AssetLibrary\/PayUAssetLibrary\/PayUAssetLibrary\/Constants\/PayUAssetConstants.swift",
-      "kind": "StringLiteral",
-      "offset": 3062,
-      "length": 28,
-      "value": "\"payu_network_manager_queue\""
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/AssetLibrary\/PayUAssetLibrary\/PayUAssetLibrary\/Constants\/PayUAssetConstants.swift",
       "kind": "IntegerLiteral",
-      "offset": 3127,
+      "offset": 2930,
       "length": 7,
       "value": "1048576"
     },

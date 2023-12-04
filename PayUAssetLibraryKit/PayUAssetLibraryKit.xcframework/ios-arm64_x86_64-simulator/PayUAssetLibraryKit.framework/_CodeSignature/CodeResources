@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		TRVmjsLaPZ0t/rUPWHu+a8qDQBU=
+		wDDvAiud+AELVIlViI4VyEjZxDE=
 		</data>
 		<key>Headers/PayUAssetLibraryKit-Swift.h</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		4x94TM/UYSAROfcDAsVd6Acz6DU=
+		4rDsxanPwHheVEiB/B11vQ4eWgk=
 		</data>
 		<key>Modules/PayUAssetLibraryKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		pLrYX3PZDwtMnJzTDeKankOxStY=
+		xvxtLa0wSv+jRKX/MEoFUzFEvP8=
 		</data>
 		<key>Modules/PayUAssetLibraryKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/PayUAssetLibraryKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Q0u3sh+lygW/2iPkxNcFFYS7tg0=
+		mdiQlEMzvVU4gwMDkp/shkWnePc=
 		</data>
 		<key>Modules/PayUAssetLibraryKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		pLrYX3PZDwtMnJzTDeKankOxStY=
+		xvxtLa0wSv+jRKX/MEoFUzFEvP8=
 		</data>
 		<key>Modules/PayUAssetLibraryKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/PayUAssetLibraryKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		oH8UUAjoO5QbbcRkG6JN/ZkdrDQ=
+		Hb1dYk0FSdzMBRsEP6e/+rDjXT8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -71,7 +71,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oz5+qZAxStghDgeCjTDh+piYIVrpQnt3oQ87vYQn+CQ=
+			SXTTiej+93hzqV62f9roiRy8iowBc/i29Tjl6S7r2iU=
 			</data>
 		</dict>
 		<key>Headers/PayUAssetLibraryKit-Swift.h</key>
@@ -92,7 +92,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xQerro97MkwDuy9chLG9B/mSX2PDc8LHiu0dPlbZ7JU=
+			FuP5LIlGbE16IMTZk49d1hJpX5vV/whWZHgohgKMxvk=
 			</data>
 		</dict>
 		<key>Modules/PayUAssetLibraryKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -120,14 +120,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iM+I8b34fI832dupknRWYk2paBf7MxIKvAPsrOL9ThU=
+			aMQW7IheNlg21mKZLCMWXG8rk1UhGSDNWcHi9oy1VHI=
 			</data>
 		</dict>
 		<key>Modules/PayUAssetLibraryKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xQerro97MkwDuy9chLG9B/mSX2PDc8LHiu0dPlbZ7JU=
+			FuP5LIlGbE16IMTZk49d1hJpX5vV/whWZHgohgKMxvk=
 			</data>
 		</dict>
 		<key>Modules/PayUAssetLibraryKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -155,7 +155,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8fU/pkjG4tCaqhF61OyCEYTUcorM/7ZMaN5FzM+9qvs=
+			XfCP4TNnpFAeQsbPs0SW1JrL6cfwu/Eiyn7UIqCi3Tw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
