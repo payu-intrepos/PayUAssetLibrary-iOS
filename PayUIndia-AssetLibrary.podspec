@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
   s.name                = "PayUIndia-AssetLibrary"
-  s.version             = "3.3.3"
+  s.version             = "4.0.0"
   s.license             = "MIT"
   s.homepage            = "https://github.com/payu-intrepos/PayUAssetLibrary-iOS"
   s.author              = { "PayUbiz" => "contact@payu.in"  }
@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
       :tag => "#{s.version}"
   }
   
-  s.ios.deployment_target = "12.0"
+  s.ios.deployment_target = "13.0"
   s.vendored_frameworks = 'PayUAssetLibraryKit/PayUAssetLibraryKit.xcframework'
 
 end
